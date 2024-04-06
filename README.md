@@ -2,7 +2,7 @@
 
 Welcome to my C++ Patterns, Basics, and OOPs repository! This project contains implementations of various pattern programs and basic object-oriented programming concepts in C++.
 
-## Topics to be Covered
+## Topics Covered
 
 ### 1. Basic Concepts
 ### 2. Patterns 
