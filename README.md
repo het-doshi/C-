@@ -35,7 +35,7 @@ Additionally, in the `oops` directory, you'll find C++ programs that demonstrate
 
 ## STL Concepts
 
-In the `stl` directory, you can explore various programs that utilize the Standard Template Library (STL) in C++:
+In the `c++ stl` directory, you can explore various programs that utilize the Standard Template Library (STL) in C++:
 1. Vectors
 2. Lists
 3. Maps
